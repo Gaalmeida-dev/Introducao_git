@@ -1,0 +1,6 @@
+git init
+git add .
+git status
+git push -1 main origin
+git push main origin
+git commit -m "texto aqui"
