@@ -4,3 +4,7 @@ git status
 git push -1 main origin
 git push main origin
 git commit -m "texto aqui"
+
+Agora estamos na nova branch, dev.
+
+git checkout -b dev
